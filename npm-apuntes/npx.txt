@@ -1,0 +1,4 @@
+NPX es un comando que nos dejará ejecutar acciones sin tener que pasar por la instalación.
+
+Node Package eXecute.
+

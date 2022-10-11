@@ -1,0 +1,2 @@
+Podemos agregar scripts que ejecuten las acciones que queramos a través de nuestro package.json.
+Podemos llamarlos a través del comando npm run nombre del script

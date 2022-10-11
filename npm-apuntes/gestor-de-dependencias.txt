@@ -1,0 +1,18 @@
+Historia:
+
+*1955 Nace JS.
+
+*2009 Nace node-js que es un entorno en tiempo de ejecución multiplataforma con la intención de llevar nuestro lenguaje a diferentes plataformas. Con ello nace NPM que es el gestor de paquetes por defecto de node 
+
+
+¿Qué son los gestores de dependencias?
+
+Organizan, administrar una seria de herramientas que podemos aprovechar en nuestros proyectos y ser mucho más agiles en la creación de aplicaciónes. No debemos de abusar de estas herramientas.
+
+Paquetes y modulos
+
+Son instalados y utilizados segun sea el caso. Podemos tener paquetes que funcionan solamente del lado de node asi como tambien de lado de la arquitectura web
+
+NPM = Node Package Management
+
+herramientas que tenemos al instalar node.js

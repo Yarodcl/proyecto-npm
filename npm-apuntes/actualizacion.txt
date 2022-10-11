@@ -1,0 +1,20 @@
+Compartiendo mis apuntes
+
+npm install
+
+Instala las dependencias que estén dentro de un package.json. por ejemplo al clonar un proyecto.
+
+Podrían presentarse vulnerabilidades
+
+npm outdate
+
+Nos muestra las nuevas versiones disponibles de las dependencias y con la que contamos actualmente
+
+npm install name_package@latest
+
+Instalar la versión mas reciente de la dependencia
+
+Debemos tener en cuenta que hay dependencias que también requieran ser actualizadas
+
+Puede haber conflicto ya que existen dependencias que se requieren así mismas
+
